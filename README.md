@@ -1,5 +1,7 @@
 # FrenchQuestionsWebScrap
 
+![WebSite Screenshot](Screenshot_1.png)
+
 **Upwork Freelance Job:** Turned a [webpage](https://ngware.fr/mf2/revisef2.html) with 384 questions into a .xlsx/.csv file.
 From this:
 
